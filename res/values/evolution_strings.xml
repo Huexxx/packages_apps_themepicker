@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2018 The Android Open Source Project
 
@@ -13,8 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
 
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Icon Preview</string>
@@ -23,5 +23,7 @@
     <!-- Font's section -->
     <string name="font_title">System Fonts</string>
     <string name="font_preview_card_content_description">Font Preview</string>
-</resources>
 
+    <string name="system_icons">System icons</string>
+    <string name="themed_icon_custom_title">Custom themed icons</string>
+</resources>
