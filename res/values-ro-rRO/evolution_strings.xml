@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Previzualizare pictograme</string>
     <string name="icon_pack_title">Pachet pictograme de sistem</string>
-    <string name="system_icons">Pictograme de sistem</string>
-    <string name="themed_icon_custom_title">Pictograme personalizate</string>
     <!-- Font's section -->
     <string name="font_title">Fonturi de sistem</string>
     <string name="font_preview_card_content_description">Previzualizare font</string>

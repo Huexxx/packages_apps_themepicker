@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Aperçu de l\'icône</string>
     <string name="icon_pack_title">Packs d\'icônes système</string>
-    <string name="system_icons">Icônes système</string>
-    <string name="themed_icon_custom_title">Icônes thématiques personnalisées</string>
     <!-- Font's section -->
     <string name="font_title">Polices système</string>
     <string name="font_preview_card_content_description">Aperçu de la police</string>

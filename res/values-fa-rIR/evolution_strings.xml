@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">پیش نمایش آیکون</string>
     <string name="icon_pack_title">بسته های آیکون سیستم</string>
-    <string name="system_icons">آیکون های سیستم</string>
-    <string name="themed_icon_custom_title">ایکون با تم سفارشی</string>
     <!-- Font's section -->
     <string name="font_title">فونت های سیستم</string>
     <string name="font_preview_card_content_description">پیش نمایش فونت</string>

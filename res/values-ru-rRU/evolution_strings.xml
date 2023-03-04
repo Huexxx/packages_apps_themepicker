@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Предпросмотр значка</string>
     <string name="icon_pack_title">Системные наборы значков</string>
-    <string name="system_icons">Системные значки</string>
-    <string name="themed_icon_custom_title">Пользовательские значки темы</string>
     <!-- Font's section -->
     <string name="font_title">Системный шрифт</string>
     <string name="font_preview_card_content_description">Предпросмотр шрифта</string>

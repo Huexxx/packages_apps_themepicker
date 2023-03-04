@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">图标预览</string>
     <string name="icon_pack_title">系统图标包</string>
-    <string name="system_icons">系统图标</string>
-    <string name="themed_icon_custom_title">自定义主题图标</string>
     <!-- Font's section -->
     <string name="font_title">系统字体</string>
     <string name="font_preview_card_content_description">字体预览</string>

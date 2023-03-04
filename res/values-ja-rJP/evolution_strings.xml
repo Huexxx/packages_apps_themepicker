@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">アイコンのプレビュー</string>
     <string name="icon_pack_title">システムアイコンパック</string>
-    <string name="system_icons">システムアイコン</string>
-    <string name="themed_icon_custom_title">カスタムテーマのアイコン</string>
     <!-- Font's section -->
     <string name="font_title">システムフォント</string>
     <string name="font_preview_card_content_description">フォントプレビュー</string>

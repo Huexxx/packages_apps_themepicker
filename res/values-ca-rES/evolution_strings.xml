@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Vista prèvia de les icones</string>
     <string name="icon_pack_title">Paquets d\'icones del sistema</string>
-    <string name="system_icons">Icones del sistema</string>
-    <string name="themed_icon_custom_title">Icones temàtiques personalitzades</string>
     <!-- Font's section -->
     <string name="font_title">Fonts del sistema</string>
     <string name="font_preview_card_content_description">Vista prèvia de la font</string>

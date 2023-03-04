@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Podgląd ikon</string>
     <string name="icon_pack_title">Pakiety ikon systemu</string>
-    <string name="system_icons">Ikony systemowe</string>
-    <string name="themed_icon_custom_title">Własne ikony motywu</string>
     <!-- Font's section -->
     <string name="font_title">Czcionki systemowe</string>
     <string name="font_preview_card_content_description">Podgląd czcionki</string>

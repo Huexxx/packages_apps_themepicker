@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Vista previa del icono</string>
     <string name="icon_pack_title">Paquetes de iconos del sistema</string>
-    <string name="system_icons">Iconos del sistema</string>
-    <string name="themed_icon_custom_title">Iconos tematizados personalizados</string>
     <!-- Font's section -->
     <string name="font_title">Fuente del sistema</string>
     <string name="font_preview_card_content_description">Previsualización de fuente</string>

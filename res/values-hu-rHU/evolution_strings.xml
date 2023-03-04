@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Ikon-előnézet</string>
     <string name="icon_pack_title">Rendszerikon-csomagok</string>
-    <string name="system_icons">Rendszerikonok</string>
-    <string name="themed_icon_custom_title">Egyéni témázott ikonok</string>
     <!-- Font's section -->
     <string name="font_title">Rendszer-betűtípusok</string>
     <string name="font_preview_card_content_description">Betűtípus-előnézet</string>

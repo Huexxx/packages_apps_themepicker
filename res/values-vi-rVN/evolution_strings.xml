@@ -18,8 +18,6 @@
     <!-- Icon's section -->
     <string name="icon_preview_card_content_description">Xem trước biểu tượng</string>
     <string name="icon_pack_title">Gói biểu tượng hệ thống</string>
-    <string name="system_icons">Biểu tượng hệ thống</string>
-    <string name="themed_icon_custom_title">Tùy chỉnh biểu tượng theo chủ đề</string>
     <!-- Font's section -->
     <string name="font_title">Phông chữ hệ thống</string>
     <string name="font_preview_card_content_description">Xem trước phông chữ</string>
