@@ -155,6 +155,12 @@ public final class DefaultCustomizationSections implements CustomizationSections
                 ThemedIconSwitchProvider.getInstance(activity),
                 lifecycleOwner, savedInstanceState));
 
+        // Lock screen quick affordances section.
+        sectionControllers.add(new KeyguardQuickAffordanceSectionController(
+                sectionNavigationController, mKeyguardQuickAffordancePickerInteractor,
+                new ViewModelProvider(activity, mKeyguardQuickAffordancePickerViewModelFactory)
+                .get(KeyguardQuickAffordancePickerViewModel.class), lifecycleOwner));
+
         // App grid section.
         sectionControllers.add(new GridSectionController(
                 GridOptionsManager.getInstance(activity), sectionNavigationController));
