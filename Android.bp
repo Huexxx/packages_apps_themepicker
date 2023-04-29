@@ -116,6 +116,10 @@ android_app {
     name: "ThemePicker",
     defaults: ["ThemePicker_defaults"],
 
+    resource_dirs: [
+        "res_override2",
+    ],
+
     platform_apis: true,
     manifest: "AndroidManifest.xml",
     additional_manifests: [":WallpaperPicker2_Manifest"],
